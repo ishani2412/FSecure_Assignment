@@ -1,0 +1,13 @@
+https://www.google.fi/imghp?hl=fi&tab=wi
+https://maps.google.fi/maps?hl=fi&tab=wl
+https://play.google.com/?hl=fi&tab=w8
+https://www.youtube.com/?tab=w1
+https://news.google.com/?tab=wn
+https://mail.google.com/mail/?tab=wm
+https://drive.google.com/?tab=wo
+https://www.google.fi/intl/fi/about/products?tab=wh
+http://www.google.fi/history/optout?hl=fi
+https://accounts.google.com/ServiceLogin?hl=fi&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+https://www.google.com/setprefs?sig=0_ksoXKqASFBnxCc-LslIzDrDZkVQ%3D&hl=sv&source=homepage&sa=X&ved=0ahUKEwiU2YbAze38AhVKS_EDHXQCC8YQ2ZgBCAU
+http://www.google.fi/intl/fi/services/
+https://www.google.com/setprefdomain?prefdom=FI&prev=https://www.google.fi/&sig=K_45HkOjyY68Yt8XWVVI_l8MLqZiw%3D

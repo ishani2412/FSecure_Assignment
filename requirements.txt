@@ -1,0 +1,11 @@
+BeautifulSoup4
+requests
+stopwords
+PorterStemmer
+Counter
+operator
+sys
+json
+nltk
+pandas
+numpy
